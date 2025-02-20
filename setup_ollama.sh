@@ -4,7 +4,8 @@
 OLLAMA_URL="http://127.0.0.1:11434/api/generate"
 
 # Test model name
-MODEL_NAME="llama2"
+# MODEL_NAME="llama2"
+MODEL_NAME="llama3.3:latest"
 
 # Test prompt
 TEST_PROMPT="Hello, Ollama!"

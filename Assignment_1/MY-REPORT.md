@@ -1,6 +1,6 @@
 ![GenI-banner](https://github.com/genilab-fau/genilab-fau.github.io/blob/8d6ab41403b853a273983e4c06a7e52229f43df5/images/genilab-banner.png?raw=true)
 
-# {title of your research project}
+# Evaluating Software Startup Viability with Prompt Engineering
 
 1-liner description of your project
 
@@ -45,13 +45,14 @@ Entrepreneurs and developers often struggle to determine whether their software 
 
 the research process involves designing testing and iterating different ai driven business evaluation techniques using prompt engineering three different experiments were conducted folowing:
 
-- Baseline prompt simple direct questioning the model was given a straightforward prompt asking users to describe their business idea this test was used to establish a baseline for user input quality and model response structure  
+- Baseline prompt using Zero-Shot prompt mehtod to conduct a simple direct questioning the model was given a straightforward prompt asking users to describe their business idea this test was used to establish a baseline for user input quality and model response structure  
 
-- Structured evaluation prompt a guided assessment structure was introduced where the model collected specific business details and applied some basic feasibility checks based on predefined logic  
+- Structured evaluation will use few-shot prompting to guided assessment with examples as amore structure was introduced where the model collected specific business details and applied some basic feasibility checks based on predefined logic  
 
 - Advanced multi step hybrid prompt the final experiment involved an iterative dynamic prompting technique where the ai model actively injected different sections of a structured business evaluation report over the course of the analysis refining results based on user responses  
 
-each experiment was logged and analyzed to determine which approach provided the most actionable insights and how effectively the ai adapted to complex business evaluation tasks  
+each experiment was logged and analyzed to determine which approach provided the most actionable insights and how effectively the ai adapted to complex business evaluation tasks.
+
 
 <!-- WHEN APPLICABLE AND AVAILABLE -->
 
@@ -59,8 +60,9 @@ each experiment was logged and analyzed to determine which approach provided the
 
 the advanced multi step hybrid prompt outperformed the other methods by providing the most structured actionable and realistic business evaluation the model successfully  
 
-* collected and validated user input iteratively ensuring that incomplete or vague responses were refined  
-* assessed market viability competition and technical feasibility dynamically injecting analysis segments progressively rather than relying on static response formats  
+* collected and validated user input iteratively ensuring that incomplete or vague responses were refined.
+* I adjusted the Top-P value from 0-1 adjusted tempiture LLM properties from 0,0.3,0.7 and found that the conversation was ridged but more direct and exact at 0. At 0.3 no real differenace, and at 0.7 the ocnversation was beteer and more natural but the questionsing was subjective.
+* assessed market viability competition and technical feasibility dynamically injecting analysis segments progressively rather than relying on static 
 * generated a detailed feasibility report including risk assessments investment readiness scores and potential business model pivots  
 * reduced bias and assumption driven conclusions prompting users to clarify uncertainties and validate their assumptions through structured questioning  
 * produced highly accurate revenue projections and cost risk assessments making it practical for real world startup validation  
@@ -75,26 +77,3 @@ the advanced multi step hybrid prompt outperformed the other methods by providin
 
 
 
-
-
-#### What this research is exploring  
-
- 
-
-#### Implications for practice  
-
-
-# Research Method  
-
-
-
-# Results  
-
-
-the baseline prompt failed to provide meaningful analysis as responses were inconsistent and lacked depth the structured evaluation prompt improved accuracy but lacked adaptability and interactive refinement making it only moderately effective  
-
-# Further research  
-
- 
-
-this research demonstrates that ai driven structured business evaluation using hybrid prompt engineering techniques is a viable method for reducing startup failure risks and improving decision making accuracy future work will focus on enhancing automation data integration and deeper investment analysis features to improve reliability and scalability  
