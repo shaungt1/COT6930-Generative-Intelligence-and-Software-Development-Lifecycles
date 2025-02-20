@@ -1,0 +1,86 @@
+
+`<SO_Final_Output_Template>`
+
+**Objective**: Guide the AI in interpreting, generating, and presenting the final business evaluation using the <SO_Final_Output_Template> in a way that prioritizes clarity, simplicity, and actionable insights over technical jargon or irrelevant metrics. The instructions below must be followed exactly to ensure accurate, meaningful output.
+
+--- Start Report below this line and make it ipersonal and relatiable be real , huma, eexisted, and optimisitic even if the ideas is no good.
+
+**TITLE:** SOFTWARE BUSINESS VIABILITY EVALUATION  
+**PURPOSE:** To deliver a clear, realistic analysis of whether the software idea is viable, explaining key factors in simple terms to help the user make an informed decision.  
+
+### **1. EXECUTIVE SUMMARY**  
+The software idea presented addresses the following problem: [problem_significance_summary]. The solution proposed offers [solution_novelty_summary], with a market opportunity evaluated as [market_opportunity_summary].  
+
+**Overall Assessment:** The product is **[viability_rating]** in terms of feasibility, potential market success, and technical readiness.  
+
+**Key Takeaway:** Based on the analysis, the product is **[recommended_action]**. If pursued, it should leverage strengths such as [core_strength], while addressing risks like [identified_risks].  
+
+---
+
+### **2. REAL-WORLD IMPACT & RELEVANCE**  
+- **Is this a real problem?** The analysis indicates that [problem_importance_summary], suggesting the problem is [common/rare] among the target audience.  
+- **Do people care about solving it?** Data suggests the pain point is [high/moderate/low], meaning users [are/are not] motivated to find a solution.  
+- **Market Relevance:** The market landscape shows that [market_opportunity_summary]. Competitors like [competition_summary] currently serve this need [effectively/ineffectively].  
+
+**Verdict:** The problem is [significant/insignificant] enough to justify or dismiss the project based on current market conditions.  
+
+---
+
+### **3. TECHNICAL FEASIBILITY**  
+- **Can this be built with existing tech?** Yes/No – Current resources are [sufficient/insufficient] to develop this product with technologies like [specified_technologies].  
+- **Potential Challenges:** The biggest technical obstacles include [technical_risks_summary], which might lead to delays or additional costs.  
+- **Resource Requirements:** Initial development will likely require [dev_hours] developer hours and an estimated [cost_estimate] USD.  
+**Verdict:** The technical foundation appears [strong/weak], with [clear/uncertain] paths for implementation.  
+
+---
+
+### **4. BUSINESS POTENTIAL**  
+- **Market Size:** The Total Addressable Market (TAM) is approximately **[TAM_value]**. This means if every potential customer bought the product, revenue could reach:  
+**Calculation:** `[market_population] x [product_price] = [TAM_value]`  
+- **Serviceable Available Market (SAM):** This subset of the TAM, representing reachable customers, is **[SAM_value]**.  
+**Calculation:** `[reachable_customers] x [product_price] = [SAM_value]`  
+- **Serviceable Obtainable Market (SOM):** The immediate market you can realistically capture in the near term is **[SOM_value]**.  
+**Calculation:** `[projected_market_share] x [SAM_value] = [SOM_value]`  
+**Market Trends:** The market is **[growing/stagnant/declining]**, with demand driven by [market_trend_drivers].  
+**Verdict:** The business potential is [high/moderate/low], indicating [good/limited] long-term success prospects.  
+
+---
+
+### **5. USER ADOPTION & BEHAVIOR**  
+- **Will people actually use it?** Surveys, patterns, and trends suggest **[adoption_likelihood]%** likelihood of adoption within the target demographic.  
+- **Primary Adoption Drivers:** [list_of_key_factors_motivating_users].  
+- **Adoption Barriers:** Concerns like [user_adoption_challenges] could slow growth.  
+
+**Verdict:** Users are [likely/unlikely] to engage with the product unless these barriers are addressed.  
+
+---
+
+### **6. RISK ASSESSMENT**  
+- **Financial Risks:** The potential budget deviation is estimated at **[financial_risk_percentage]%**, mostly due to [key_cost_factors].  
+- **Technical Risks:** Development complexities, such as [technical_risks], might cause delays or limit features.  
+- **Market Risks:** Competitors like [competition_names] could outpace the product if not mitigated.  
+
+**Mitigation Plan:**  
+- Increase resource allocation for [specific_area].  
+- Conduct additional research into [high-risk_factor].  
+- Adjust pricing strategy to address [identified_market_shift].  
+
+---
+
+### **7. RECOMMENDATION & FINAL VERDICT**  
+**Overall Feasibility:** **[final_viability_score]%** – The project has a [high/moderate/low] chance of success based on the evaluation.  
+
+**Business Potential:** The potential return on investment (ROI) is approximately **[ROI_percentage]%**, with revenue projections of **[projected_revenue]** USD within the first [timeframe].  
+
+**Recommendation:**  
+- Proceed if the goal is to target [target_market_niche] and [competitive_advantage].  
+- Reconsider if the budget exceeds [max_budget] or the technical obstacles prove insurmountable.  
+
+**Final Advice:** Based on all factors, the project is **[recommended_action]**. Moving forward requires addressing the highlighted risks, especially in [critical_area], while capitalizing on the strengths such as [core_strength].  
+
+---
+
+**!!!IMPORTANT!!!**: These findings are based on data provided, historical market patterns, and logical inference models. Always cross-reference insights with real-time market conditions if pursuing investment or development.  
+
+**END REPORT**  
+`<EO_Final_Output_Template>`
