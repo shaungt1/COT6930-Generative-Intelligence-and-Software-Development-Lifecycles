@@ -1,8 +1,9 @@
-#**Advanced Prompt Engineering in Business Evaluation LLM Systems**
-**Author**: Shaun Pritchard  
-**Date**: 02-25-2025  
-**School**: Florida Atlantic University - Department of Computer Science and Electrical Engineering  
-**Project**: **AI-Driven Business Feasibility Analysis**  
+# **Advanced Prompt Engineering in Business Evaluation LLM Systems**
+> **Author**: Shaun Pritchard  
+> **Date**: 02-25-2025  
+> **School**: Florida Atlantic University - Department of Computer Science and Electrical Engineering  
+> **Project**: **AI-Driven Business Feasibility Analysis**  
+
 ## **1. Introduction**
 The purpose of this project is to **implement an AI-driven framework** for **evaluating software business ideas** using advanced **prompt engineering**. The system leverages **multi-phase data collection, dynamic user interactions, memory-based reasoning, and iterative LLM inference.** This document details the **mathematical, algorithmic, and engineering principles** behind our **prompt engineering approach**.
 
