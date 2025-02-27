@@ -25,7 +25,7 @@ The **LLM-based business feasibility system** follows a **three-phase process**:
 
 ---
 
-## **3. Mathematical Formulation of Prompt Dynamics**
+## **3.Prompt Dynamics**
 ### **3.1 Memory-Based Questioning Model**
 Our approach relies on **LLM-based active recall** to prevent redundant questions and **ensure conversational continuity**. This can be represented as follows:
 
