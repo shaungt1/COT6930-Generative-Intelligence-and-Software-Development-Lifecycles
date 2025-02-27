@@ -27,9 +27,9 @@ Entrepreneurs and developers often struggle to determine whether their software 
 
 <!-- Free-format; use the topics that are applicable to your exploration  -->
 
-* we employ iterative ai driven business evaluation techniques including multi step hybrid prompting to guide structured requirement analysis and decision making  
-* we are building a dynamic ai assisted system that validates software business ideas by analyzing market demand technical feasibility competition and financial risk factors  
-* we are exploring the effectiveness of structured interactive llm driven business evaluations to improve accuracy in market analysis and reduce bias in business decision making 
+* We will employ iterative ai driven business evaluation techniques including multi step hybrid prompting to guide structured requirement analysis and decision making  
+* We are building a dynamic ai assisted system that validates software business ideas by analyzing market demand technical feasibility competition and financial risk factors  
+* We are exploring the effectiveness of structured interactive llm driven business evaluations to improve accuracy in market analysis and reduce bias in business decision making 
 
 #### Implications for practice
 
