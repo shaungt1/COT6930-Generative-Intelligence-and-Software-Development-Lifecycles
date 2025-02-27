@@ -1,12 +1,8 @@
-Here is a **scholarly Markdown document** explaining the **advanced complexities of prompt engineering** used in this project, incorporating **mathematical notations** and **formal structuring** in Markdown.
-
----
-
-# 📌 **Advanced Prompt Engineering in Business Evaluation LLM Systems**
-**Author**: [Your Name]  
-**Date**: [Insert Date]  
+#**Advanced Prompt Engineering in Business Evaluation LLM Systems**
+**Author**: Shaun Pritchard  
+**Date**: 02-25-2025  
+**School**: Florida Atlantic University - Department of Computer Science and Electrical Engineering  
 **Project**: **AI-Driven Business Feasibility Analysis**  
-
 ## **1. Introduction**
 The purpose of this project is to **implement an AI-driven framework** for **evaluating software business ideas** using advanced **prompt engineering**. The system leverages **multi-phase data collection, dynamic user interactions, memory-based reasoning, and iterative LLM inference.** This document details the **mathematical, algorithmic, and engineering principles** behind our **prompt engineering approach**.
 
@@ -189,8 +185,3 @@ By leveraging **structured templates, iterative evaluation, and memory-based rea
 3. OpenAI (2023). *GPT-4 Technical Report*. Retrieved from [openai.com](https://openai.com)
 4. Google DeepMind (2022). *Scaling Laws for Neural Language Models*. NeurIPS Proceedings.
 
----
-
-# **🚀 Ready to Build the Future of AI-Driven Business Evaluation! 🚀**
-
-This document provides **a structured, mathematically rigorous** explanation of the **prompt engineering complexities** in the project. **Let me know if you'd like further refinements!** 🚀
